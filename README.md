@@ -1,2 +1,3 @@
-# Tictactoe
-1 year 2 semester project
+# CplusplusProject
+
+TicTacToe console based game developed by c++ programming language.
